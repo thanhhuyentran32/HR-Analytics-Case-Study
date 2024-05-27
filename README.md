@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to Portfolio! I'm a third-year student at Foreign Trade University (FTU), passionate about leveraging data to drive actionable insights. Currently seeking opportunities to apply my skills and contribute to real-world projects.
+I'm a third-year student at Foreign Trade University (FTU), passionate about leveraging data to drive actionable insights. Currently seeking opportunities to apply my skills and contribute to real-world projects.
 
 ## Project Overview: HR Analytics Case Study
 ### Objective
