@@ -1,7 +1,4 @@
-## Introduction
-I'm a third-year student at Foreign Trade University (FTU), passionate about leveraging data to drive actionable insights. Currently seeking opportunities to apply my skills and contribute to real-world projects.
-
-## Project Overview: HR Analytics Case Study
+## HR Analytics Case Study
 ### Objective
 The analysis aims to identify key factors contributing to employee churn and recommend actionable strategies for retention. 
 
