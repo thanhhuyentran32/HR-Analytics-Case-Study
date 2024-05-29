@@ -20,3 +20,5 @@ The analysis aims to identify key factors contributing to employee churn and rec
 <img width="879" alt="Screenshot 2024-05-28 163847" src="https://github.com/thanhhuyentran32/HR-Analytics-Case-Study/assets/170299467/c3cc1f9e-2649-43fd-99ef-5ddf53f2ceca">
 
 <img width="893" alt="Screenshot 2024-05-28 163908" src="https://github.com/thanhhuyentran32/HR-Analytics-Case-Study/assets/170299467/d6626df2-3e1d-4767-a9bd-35f100c6fa20">
+
+![image](https://github.com/thanhhuyentran32/HR-Analytics-Case-Study/assets/170299467/ab3c4f7e-80ad-4ac5-a159-d0bc1f119565)
